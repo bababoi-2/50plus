@@ -13,7 +13,7 @@ Collection of tampermonkey helpers for https://www.50plus.de/
 ### How to use:
 - Press the "Solve" button to select the correct answer
 
-## Crossword Cheat
+## Crossword Helper
 ### A helper for
 - Kreuzworträtsel 1
 - Kreuzworträtsel 2
