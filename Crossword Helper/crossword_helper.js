@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Helper for https://www.50plus.de/spiele/raetsel/kreuzwortraetsel-*.html
-// @author       You
+// @author       Bababoiiiii
 // @match        https://www.50plus.de/spiele/raetsel/kreuzwortraetsel-*.html
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=50plus.de
 // @grant        none
