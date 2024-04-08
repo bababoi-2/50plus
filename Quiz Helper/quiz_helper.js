@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.1
 // @description  Helper for different 50 plus quizzes
-// @author       You
+// @author       Bababoiiiii
 // @match        https://www.50plus.de/spiele/quiz/quiz-*.html
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=50plus.de
 // @grant        none
