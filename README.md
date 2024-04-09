@@ -26,6 +26,7 @@ Collection of tampermonkey helpers for https://www.50plus.de/
 ## Sudoku Helper
 ### A helper for
 - Sudoku
+- Doppelsudoku
 
 ### How to use:
 - Click on a number field with the middle mouse button to reveal the number
