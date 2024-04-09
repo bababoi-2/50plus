@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         50 Plus Sodoku Helper
+// @name         50 Plus Sudoku Helper
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Helper for https://www.50plus.de/spiele/sudoku.html
 // @author       Bababoiiiii
-// @match        https://www.50plus.de/spiele/sudoku.html
+// @match        https://www.50plus.de/spiele/*sudoku.html
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=50plus.de
 // @grant        none
 // ==/UserScript==
