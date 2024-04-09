@@ -22,3 +22,11 @@ Collection of tampermonkey helpers for https://www.50plus.de/
 - Click on a character field with the middle mouse button to reveal the character
 - Click on a description to solve the whole word
 - Click on the "Solve All" button to solve the entire crossword
+
+## Sudoku Helper
+### A helper for
+- Sudoku
+
+### How to use:
+- Click on a number field with the middle mouse button to reveal the number
+- Click on the "Solve All" button to solve the entire Sudoku
